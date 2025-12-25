@@ -35,4 +35,4 @@ Alles ist Open Source und nachvollziehbar:
 | **Phase 3** | Blue Team Defense, Logging, SIEM, Hardening | 🔴 Planned |
 
 ---
-📫 **Kontakt:** [Deine E-Mail] | Berlin, Germany
+📫 **Kontakt:** gabrielstanczyk.gs@gmail.com | Berlin, Germany
