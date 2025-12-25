@@ -1,4 +1,4 @@
-### ⚠️ System Initializing... Cylon Gabriel is typing.
+### ⚠️ System Initializing... Gabriel is typing.
 
 Ich bin ein angehender **Fachinformatiker (Systemintegration & Security)** aus Berlin.
 Mein Ziel ist nicht nur, IT zu "lernen", sondern Systeme fundamental zu verstehen, abzusichern und (legal) zu testen. Aktuell absolviere ich ein **selbstauferlegtes 24-Wochen-Bootcamp**, um mich perfekt auf den Ausbildungsstart 2026 vorzubereiten.
