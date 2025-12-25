@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, ich bin Gabriel 👋
 
-<!--
-**Cylon-afk/Cylon-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein motivierter IT-Einsteiger aus Berlin mit Fokus auf **Systemintegration und Cybersecurity**. Aktuell bereite ich mich intensiv auf meine Ausbildung 2026 vor.
 
-Here are some ideas to get you started:
+- 🔭 **Aktuelles Projekt:** Ich absolviere einen 24-wöchigen Deep-Dive in Linux, Python & IT-Security.
+- 🌱 **Ich lerne gerade:** Linux File Systems, Networking Basics & Python Scripting.
+- 🎯 **Mein Ziel:** Duale Ausbildung zum Fachinformatiker (Systemintegration/Security).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mein Lern-Portfolio
+Schau dir meine aktuelle Dokumentation und meine Projekte an:
+👉 **[IT-Ausbildung-Portfolio-2026](https://github.com/DEIN-USER/IT-Ausbildung-Portfolio-2026)**
+*(Hier dokumentiere ich täglich meinen Fortschritt in Linux, Networking und Blue/Red Teaming)*
+
+---
+
+### 🛠 Tech Stack (Learning)
+* **OS:** Linux (Ubuntu, Kali), Windows
+* **Code:** Python, Bash
+* **Tools:** VirtualBox, VS Code, Git
+
+---
+📫 **Kontakt:** [Deine E-Mail] | [LinkedIn Link falls vorhanden]
